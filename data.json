@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Classic Milk Chocolate Bar",
+            "price": "100",
+            "image": "images/choco-img-1.png",
+            "isAvailable": true,
+            "rating": 5
+        },
+        {
+            "id": 2,
+            "name": "Dark Chocolate Truffle",
+            "price": "150",
+            "image": "images/choco-img-2.png",
+            "isAvailable": true,
+            "rating": 5
+        },
+        {
+            "id": 3,
+            "name": "White Chocolate Raspberry Bark",
+            "price": "130",
+            "image": "images/choco-img-3.png",
+            "isAvailable": true,
+            "rating": 5
+        },
+        {
+            "id": 4,
+            "name": "Caramel-filled Milk Chocolate",
+            "price": "120",
+            "image": "images/choco-img-4.png",
+            "isAvailable": false,
+            "rating": 5
+        },
+        {
+            "id": 5,
+            "name": "Hazelnut Chocolate Praline",
+            "price": "140",
+            "image": "images/choco-img-5.png",
+            "isAvailable": true,
+            "rating": 5
+        },
+        {
+            "id": 6,
+            "name": "Mint Chocolate Squares",
+            "price": "110",
+            "image": "images/choco-img-6.png",
+            "isAvailable": true,
+            "rating": 5
+        },
+        {
+            "id": 7,
+            "name": "Almond Crunch Chocolate",
+            "price": "130",
+            "image": "images/choco-img-7.png",
+            "isAvailable": true,
+            "rating": 5
+        },
+        {
+            "id": 8,
+            "name": "Salted Caramel Dark Chocolate",
+            "price": "140",
+            "image": "images/choco-img-8.png",
+            "isAvailable": true,
+            "rating": 5
+        },
+        {
+            "id": 9,
+            "name": "Strawberry-filled White Chocolate",
+            "price": "130",
+            "image": "images/choco-img-9.png",
+            "isAvailable": true,
+            "rating": 5
+        },
+        {
+            "id": 10,
+            "name": "Espresso-infused Dark Chocolate",
+            "price": "150",
+            "image": "images/choco-img-10.png",
+            "isAvailable": false,
+            "rating": 5
+        }
+    ]
+}
